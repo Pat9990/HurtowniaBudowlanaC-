@@ -1,0 +1,11 @@
+-------------------OPIS PROJEKTU-----------------
+
+Program/szkielet programu symuluje system sieci hurtowni budowlanej.
+
+Zostały stworzone niezbędne klasy m.in:
+-klasa Adres: można określić adresy kientów, odziały hurtowni
+-klasa Klient: określa dane klientów i właścicieli
+-klasa Hurtownia Budowlana: zawiera dane ogólne o sieci hurtowni, dziedziczy po klasie 
+sieć hurtowni budowlanych. Klasa zawiera potrzebne metody np.określające bieązcy stan magazynu
+
+ 
